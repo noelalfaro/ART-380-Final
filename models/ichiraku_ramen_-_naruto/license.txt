@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ichiraku Ramen - Naruto
+* source:	https://sketchfab.com/3d-models/ichiraku-ramen-naruto-8a5953bdd4b64b089ef0e08ad15ce368
+* author:	benjaminshaw (https://sketchfab.com/benjaminshaw)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ichiraku Ramen - Naruto" (https://sketchfab.com/3d-models/ichiraku-ramen-naruto-8a5953bdd4b64b089ef0e08ad15ce368) by benjaminshaw (https://sketchfab.com/benjaminshaw) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

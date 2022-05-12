@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kame House
+* source:	https://sketchfab.com/3d-models/kame-house-f055f8adf89c4d1280b2bfa8edb49a7c
+* author:	madziam (https://sketchfab.com/madziam)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kame House" (https://sketchfab.com/3d-models/kame-house-f055f8adf89c4d1280b2bfa8edb49a7c) by madziam (https://sketchfab.com/madziam) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

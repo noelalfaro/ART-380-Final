@@ -1,0 +1,122 @@
+@font-face {
+    font-family: atletico;
+    src: url(/fonts/Atletico\ Medium.otf);
+}
+
+
+body{
+    margin:0;
+   background-color: #EAF9D9;
+}
+canvas{
+    display:block;
+    /* z-index: -1; */
+    /* z-index: -2; */
+    /* width: 70vw; */
+}
+
+/* #myCanvas{
+    width: 70vw;
+} */
+
+#hello{
+    position:absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -15%);
+    /* z-index: 1; */
+}
+
+#container{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+
+#start{
+    width: 100vw;
+    height: 100vh;
+}
+
+#giphyContainer{
+    height: fit-content;
+    width: fit-content;
+    margin-right: 30%;
+    margin-top: 20%;
+    /* z-index: 2; */
+    background-color: rgb(124, 90, 28);
+    position: absolute;
+}
+
+#info{
+    width: 30vw;
+    position: absolute;
+    z-index: 2;
+    background-color: #e9ebe8;
+    height: 100vh;
+    opacity: 80%;
+    backdrop-filter: blur(300px);
+    border-radius: 30px;
+    margin-left: 3%;
+}
+
+#infoContainer{
+
+    height: 100vh;
+    display: flex;
+
+}
+
+#info-backdrop{
+    width: 30vw;
+    height: 100vh;
+    /* position: absolute; */
+    /* z-index: -1; */
+    /* background: url('images/rocks.jpg'); */
+    /* opacity: 10%; */
+    /* filter: blur(300px); */
+    /* backdrop-filter: blur(200px); */
+}
+
+/* #test{
+    height: 30vh;
+    width: 30vw;
+    background-color: red;
+    margin: 60%;
+
+} */
+
+.title{
+    height: 15vh;
+    width: fit-content;
+    display: flex;
+    padding: 5%;
+    font-family: 'Atletico';
+}
+
+.intro{
+    font-size: 32px;
+}
+
+.instructions{
+    font-family: 'Atletico';
+    font-size: 16px;
+    padding: 3%;
+    margin: 3%;
+}
+
+.back-Button{
+    font-family: 'Atletico';
+    font-size: 16px;
+    padding: 3%;
+    margin: 3%;
+}
+
+.descriptions{
+    font-family: 'Atletico';
+    font-size: 16px;
+    padding: 3%;
+    margin: 3%;
+}
