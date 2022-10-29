@@ -18,7 +18,7 @@ $(".instructions").click(function(){
 $(".back-Button").click(function(){
     $(".back-Button").fadeOut(500,function(){
       $(".instructions").fadeIn(500,function(){
-          $(".back-Button, #dbzInfo, #narutoInfo, #aotInfo").hide();
+          $(".back-Button, #dragonballInfo, #narutoInfo, #aotInfo").hide();
       });
     });
 });
@@ -26,7 +26,7 @@ $(".back-Button").click(function(){
 
 $("#dbz").click(function(){
     $(".instructions").fadeOut(500,function(){
-      $("#dbzInfo").fadeIn(500,function(){
+      $("#dragonballInfo").fadeIn(500,function(){
           $(".instructions, #narutoInfo, #aotInfo").hide();
       });
     });
@@ -35,7 +35,7 @@ $("#dbz").click(function(){
 $("#naruto").click(function(){
     $(".instructions").fadeOut(500,function(){
       $("#narutoInfo").fadeIn(500,function(){
-          $(".instructions, #aotInfo, #dbzInfo").hide();
+          $(".instructions, #aotInfo, #dragonballInfo").hide();
       });
     });
 });
@@ -43,7 +43,7 @@ $("#naruto").click(function(){
 $("#aot").click(function(){
     $(".instructions").fadeOut(500,function(){
       $("#aotInfo").fadeIn(500,function(){
-          $(".instructions, #narutoInfo, #dbzInfo").hide();
+          $(".instructions, #narutoInfo, #dragonballInfo").hide();
       });
     });
 });
